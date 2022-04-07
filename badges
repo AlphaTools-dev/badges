@@ -127,11 +127,11 @@ img[src="/assets/9f00b18e292e10fc0ae84ff5332e8b0b.svg"] {
   background-image: url("https://discord.com/assets/58f11abcf3c13812bff969baaeb84d82.svg");
 }
 /* Nitro badge */
-img[src="/assets/24d05f3b46a110e538674edbac0db4cd.svg"] {
+img[src="https://cdn.discordapp.com/attachments/949317735664480337/961548544714633236/Picsart_22-04-07_10-50-13-116.png"] {
   transition-duration: 1s;
   filter: contrast(1) hue-rotate(0deg);
 }
-div:hover > img[src="/assets/24d05f3b46a110e538674edbac0db4cd.svg"] {
+div:hover > img[src="https://cdn.discordapp.com/attachments/949317735664480337/961548544714633236/Picsart_22-04-07_10-50-13-116.png"] {
   transform: scale(1.2);
   filter: contrast(1.2) hue-rotate(-390deg);
 }
